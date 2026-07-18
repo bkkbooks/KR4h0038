@@ -1279,6 +1279,7 @@ markers:
   - {type: line-break, offset: 2622, content: '', id: KR4h0038_WYG_059-16a01}
   - {type: substitution, offset: 2628, original: 娯, replacement: 娛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19715}}
   - {type: punctuation, offset: 2642, content: (, id: KR4h0038_krp_059-bkkpn1}
+  - {type: voice, offset: 2642, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2643, content: /, id: KR4h0038_krp_059-bkkpn2}
   - {type: punctuation, offset: 2644, content: ), id: KR4h0038_krp_059-bkkpn3}
   - {type: 'kr:newline', offset: 2644, content: '
@@ -1365,4 +1366,4 @@ markers:
 
       ', id: KR4h0038_krp_059-bkkkrnewl287}
   back: []
-hash: sha256:c43c8d2c410c6d5ea4b429f00c69c1267c88880309a1082bf88484fefb6023b6
+hash: sha256:8bf8a69f33cfb3caadbe8e02a56bb672887a1a7ad9a76fa074bbb1f36d573cb1

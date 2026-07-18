@@ -1158,6 +1158,7 @@ markers:
       ', id: KR4h0038_krp_032-bkkkrnewl252}
   - {type: line-break, offset: 2530, content: '', id: KR4h0038_WYG_032-15a01}
   - {type: punctuation, offset: 2537, content: (, id: KR4h0038_krp_032-bkkpn1}
+  - {type: voice, offset: 2537, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 2542, content: /, id: KR4h0038_krp_032-bkkpn2}
   - {type: punctuation, offset: 2546, content: ), id: KR4h0038_krp_032-bkkpn3}
   - {type: 'kr:newline', offset: 2546, content: '
@@ -1296,6 +1297,7 @@ markers:
   - {type: line-break, offset: 2829, content: '', id: KR4h0038_WYG_032-16b04}
   - {type: indent, offset: 2829, content: 　　　, id: KR4h0038_krp_032-bkkind87}
   - {type: punctuation, offset: 2832, content: (, id: KR4h0038_krp_032-bkkpn4}
+  - {type: voice, offset: 2832, length: 4, name: note, id: n2}
   - {type: substitution, offset: 2833, original: 皁, replacement: 皂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16529}}
   - {type: punctuation, offset: 2836, content: /, id: KR4h0038_krp_032-bkkpn5}
   - {type: punctuation, offset: 2836, content: ), id: KR4h0038_krp_032-bkkpn6}
@@ -1313,6 +1315,7 @@ markers:
   - {type: line-break, offset: 2864, content: '', id: KR4h0038_WYG_032-16b07}
   - {type: indent, offset: 2864, content: 　　　, id: KR4h0038_krp_032-bkkind88}
   - {type: punctuation, offset: 2867, content: (, id: KR4h0038_krp_032-bkkpn7}
+  - {type: voice, offset: 2867, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 2872, content: /, id: KR4h0038_krp_032-bkkpn8}
   - {type: punctuation, offset: 2872, content: ), id: KR4h0038_krp_032-bkkpn9}
   - {type: 'kr:newline', offset: 2872, content: '
@@ -1570,4 +1573,4 @@ markers:
 
       ', id: KR4h0038_krp_032-bkkkrnewl341}
   back: []
-hash: sha256:727b7435fd4979df08c81504a103a8ce4e7376fb153705990fe093dbd63484f4
+hash: sha256:f999b9d20049b1608207093234ce43aa851983c0a48ef07d6b901ba4a2dee440
